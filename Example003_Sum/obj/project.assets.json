@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vgdovskaya\\Desktop\\21_06_22\\.vscode\\Example003_Sum\\Example003_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\vgdovskaya\\Desktop\\21_06_22\\Example003_Sum\\Example003_Sum.csproj",
       "projectName": "Example003_Sum",
-      "projectPath": "C:\\Users\\vgdovskaya\\Desktop\\21_06_22\\.vscode\\Example003_Sum\\Example003_Sum.csproj",
+      "projectPath": "C:\\Users\\vgdovskaya\\Desktop\\21_06_22\\Example003_Sum\\Example003_Sum.csproj",
       "packagesPath": "C:\\Users\\vgdovskaya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vgdovskaya\\Desktop\\21_06_22\\.vscode\\Example003_Sum\\obj\\",
+      "outputPath": "C:\\Users\\vgdovskaya\\Desktop\\21_06_22\\Example003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\vgdovskaya\\AppData\\Roaming\\NuGet\\NuGet.Config"
